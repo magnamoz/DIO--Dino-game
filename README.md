@@ -7,3 +7,5 @@
   <li>Inclusão título página inicial </li>
   <li>Inclusão placar </li>
 </ul>
+
+![Imagem layout](https://github.com/magnamoz/DIO--Dino-game/blob/master/index.png)
